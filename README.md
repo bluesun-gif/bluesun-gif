@@ -1,54 +1,75 @@
+<!-- GitHub Profile README for bluesun-gif -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BlueSun%20Digital&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20AI-Powered%20Systems%20That%20Run%20Entire%20Businesses&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Tanvir%20Ahmed%20Sohan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Product%20Manager%20%7C%20Digital%20Agency&descAlignY=58&descColor=d1d5db" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=One+Person.+One+Laptop.+Full+Business.;AI+%2B+Automation+%3D+Infinite+Scale;Lead+Generation+%E2%86%92+Demo+%E2%86%92+Deal+Closed;Building+the+future+of+digital+agencies)](https://github.com/bluesun-gif)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sohanai.vercel.app-6366f1?style=for-the-badge&logoColor=white)](https://sohanai.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-ahmed-sohan)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tnvrhmdsohan@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 What I Do
 
-I build **AI-powered automation systems** that handle what entire teams used to do — lead generation, demo creation, personalized outreach, follow-ups, and content marketing — all from a single laptop.
+> I build **AI-powered digital products** for startups and businesses — from idea to live product in **days, not months.**
 
-My focus is on **digital agency automation** that helps businesses that haven't discovered the web yet get online, and helps solo builders run profitable companies without employees.
+I'm a solo **AI Engineer + Product Manager** based in Bangladesh 🇧🇩, running BlueSun — a one-person digital agency powered by AI automation.
 
-```python
-class BlueSunDigital:
-    name     = "BlueSun Digital"
-    focus    = ["AI Automation", "Digital Agency Systems", "Lead Generation"]
-    stack    = ["Python", "Node.js", "Apify", "Vercel", "AI/LLMs"]
-    mission  = "One person. Infinite scale."
-    status   = "Building in public 🚀"
-```
+- 🤖 **AI Prompt Engineering** — Building production-ready AI workflows and agents
+- 📦 **Product Management** — Strategy, roadmaps, user research, GTM
+- ⚡ **Full-Stack Development** — Next.js, Python, Firebase, Vercel
+- 🔄 **Automation Systems** — Scraping, lead generation, workflow automation
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 [One-Person Agency Engine](https://github.com/bluesun-gif/one-person-agency)
-Fully automated digital agency system. Scrapes leads from Google Maps, Instagram & Facebook → builds custom demo websites → deploys live to Vercel → sends personalized outreach via email — all automatically.
+### 🏢 One-Person Agency Engine
+AI-powered full digital agency on autopilot. Scrapes leads, builds demos, deploys products, sends outreach — all automated.
 
-**Stack:** Python • Apify • Vercel • Brevo SMTP • SQLite
+**Stack:** Python • Apify • Vercel • SQLite
 
-![Stars](https://img.shields.io/github/stars/bluesun-gif/one-person-agency?style=flat&color=6366f1)
+[![View](https://img.shields.io/badge/View-Project-6366f1?style=flat-square)](https://github.com/bluesun-gif)
 
 </td>
 <td width="50%">
 
-### 🧠 Hermes AI Agent System
-A self-hosted AI agent framework that runs scheduled tasks, handles email/WhatsApp/Telegram inboxes, and executes complex multi-step workflows autonomously.
+### 🤖 Hermes AI Agent System
+Autonomous multi-agent AI system for task automation, research, and execution. Self-improving architecture.
 
-**Stack:** Python • LLM APIs • Cron Scheduling
+**Stack:** Python • Multi-Agent • LLM APIs
 
-*Coming soon...*
+[![View](https://img.shields.io/badge/View-Project-6366f1?style=flat-square)](https://github.com/bluesun-gif/hermes-agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🇫🇷 L'Échoppe de Paris
+Premium French restaurant website with real-time reservations, multilingual UI, and animated experience.
+
+**Stack:** Next.js • Tailwind • Firebase
+
+[![View](https://img.shields.io/badge/View-Project-6366f1?style=flat-square)](https://sohanai.vercel.app)
+
+</td>
+<td width="50%">
+
+### 📊 BlueSun Attendance App
+Smart attendance system with AI face recognition, real-time reports, and automated alerts.
+
+**Stack:** Python • OpenCV • Firebase • React
+
+[![View](https://img.shields.io/badge/View-Project-6366f1?style=flat-square)](https://sohanai.vercel.app)
 
 </td>
 </tr>
@@ -60,58 +81,61 @@ A self-hosted AI agent framework that runs scheduled tasks, handles email/WhatsA
 
 <div align="center">
 
+**AI & Automation**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-FF9100?style=for-the-badge&logoColor=white)
 
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Deploy**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%2FLLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluesun-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesun-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bluesun-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesun-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bluesun-gif&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=6366f1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bluesun-gif&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=a855f7&fire=ff6b6b&currStreakLabel=6366f1" />
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Building **fully automated digital agency systems** powered by AI
-- 🌱 Learning **advanced LLM agent orchestration** and multi-agent workflows  
-- 💡 Exploring **programmatic lead generation** at scale
-- 🚀 Open to **collaborations** on AI automation and digital business projects
-
----
-
-## 📬 Let's Connect
+## 💼 Open for Work
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bluesun-gif)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbul8151@gmail.com)
+| Service | Rate | Timeline |
+|---|---|---|
+| AI Product Build (MVP) | Contact for quote | 1–2 weeks |
+| Prompt Engineering & AI Workflow | Contact for quote | 3–7 days |
+| Automation System | Contact for quote | 1 week |
+| Product Strategy & Consulting | Contact for quote | Flexible |
+
+**📩 Let's build something:** [tnvrhmdsohan@gmail.com](mailto:tnvrhmdsohan@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*"The best businesses are the ones that run while you sleep."*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" />
 </div>
